@@ -165,6 +165,7 @@
               </svg>
               <span>Help</span>
             </div>
+
             <div
               class="lang d-flex align-center text-white"
               style="gap: 5px; cursor: pointer"

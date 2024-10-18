@@ -147,10 +147,6 @@
                                           Choose OPtions
                                       </v-btn>
                                   </div>
-  
-  
-  
-  
                       </v-card>
                   </v-col>
               </v-row>
